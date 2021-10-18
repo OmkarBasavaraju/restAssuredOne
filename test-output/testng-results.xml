@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7863" started-at="2021-08-04T17:35:31 AEST" finished-at="2021-08-04T17:35:38 AEST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7863" started-at="2021-08-04T17:35:31 AEST" finished-at="2021-08-04T17:35:38 AEST">
+      <class name="aPIActions.PaymentStatusCode200Scenario">
+        <test-method status="PASS" signature="setup()[pri:0, instance:aPIActions.PaymentStatusCode200Scenario@4fb64261]" name="setup" is-config="true" duration-ms="1197" started-at="2021-08-04T17:35:31 AEST" finished-at="2021-08-04T17:35:32 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getAcesstoken()[pri:1, instance:aPIActions.PaymentStatusCode200Scenario@4fb64261]" name="getAcesstoken" duration-ms="5756" started-at="2021-08-04T17:35:32 AEST" finished-at="2021-08-04T17:35:38 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAcesstoken -->
+        <test-method status="PASS" signature="authorizePayment()[pri:2, instance:aPIActions.PaymentStatusCode200Scenario@4fb64261]" name="authorizePayment" duration-ms="827" started-at="2021-08-04T17:35:38 AEST" finished-at="2021-08-04T17:35:38 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- authorizePayment -->
+      </class> <!-- aPIActions.PaymentStatusCode200Scenario -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
